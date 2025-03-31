@@ -23,5 +23,7 @@ to gain a deeper understanding of the global sporting landscape</p>
 <h2>Tools and Techniques</h2>
 The Analysis was done Using Microsoft SQL Server for Exploratory analysis
 
+A second Analysis of the same Dataset was done using JUPYTER NOTEBOOK and using Python Pandas to Explore
+
 <h2>Target Audience</h2>
 <p>The findings are  valuable to sports enthusiasts,researchers,policymakers and anyone interested in understanding the history and evolution of olympic games</p>
